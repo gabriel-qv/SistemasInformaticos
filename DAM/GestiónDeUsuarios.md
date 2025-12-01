@@ -207,4 +207,4 @@ Recordatorio:
 - deluser usuario grupo
 - gpasswd -d usuario grupo
 - editando /ect/group
-- 
+  

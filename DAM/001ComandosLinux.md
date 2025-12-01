@@ -3,22 +3,25 @@
 Eres el administrador de un sistema Linux y necesitas realizar una serie de tareas para gestionar procesos, archivos y permisos. Sigue las instrucciones paso a paso:
 
 1. Verifica en qué directorio estás actualmente.
-
+pwd
 2. Usa el comando adecuado para mostrar la ruta completa del directorio de trabajo actual.
+pwd
 
 3. Crea una estructura de directorios para un proyecto.
 
 4. Crea una carpeta llamada proyecto_linux en tu directorio actual, y dentro de ella crea una subcarpeta llamada documentos.
 
+
 5. Crea un archivo de texto con un editor.
+
 
 6. Entra al directorio documentos y crea un archivo llamado informe.txt usando el editor nano.
    
 7. Escribe dentro del archivo una breve descripción de lo que estás haciendo (unas 3 líneas) y guarda los cambios.
 
-8. Consulta el manual de un comando.
+8.  Consulta el manual de un comando.
 
-9. Abre la página del manual para el comando ps y revisa para qué sirve la opción -aux.man 
+9.  Abre la página del manual para el comando ps y revisa para qué sirve la opción -aux.man 
 
 10. Visualiza el contenido del archivo creado.
 
